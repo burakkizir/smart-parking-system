@@ -1,0 +1,13 @@
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.Form1.resources
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.Resources.resources
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.vbproj.GenerateResource.Cache
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\bin\Debug\Otopark2.exe
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\bin\Debug\Otopark2.pdb
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\bin\Debug\Otopark2.xml
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.exe
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.xml
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.pdb
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\bin\Debug\oto.accdb
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\bin\Debug\Otopark2.exe.config
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.Form2.resources
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\Otopark2\Otopark2\obj\Debug\Otopark2.Form3.resources
